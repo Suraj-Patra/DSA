@@ -1,3 +1,4 @@
+<pre>
 Code : Interesting Alphabets
 Print the following pattern for the given number of rows.
 Pattern for N = 5
@@ -6,6 +7,7 @@ DE
 CDE
 BCDE
 ABCDE
+</pre>
 
 ```Java
     import java.util.Scanner;
